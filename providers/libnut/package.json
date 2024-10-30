@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@nut-tree/libnut-darwin": "2.7.1",
-    "@nut-tree/libnut-linux": "2.7.1",
+    "@nut-tree/libnut-linux": "github:kolivritech/libnut-core",
     "@nut-tree/libnut-win32": "2.7.1"
   },
   "devDependencies": {
